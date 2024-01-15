@@ -6,7 +6,7 @@ function Container({ children }) {
 
 const StyledContainer = styled.main`
     position: relative;
-    top: 18rem;
+    top: 10rem;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 1rem;
     width: 70dvw;

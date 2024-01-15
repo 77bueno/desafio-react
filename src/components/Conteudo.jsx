@@ -3,11 +3,9 @@ import styled from "styled-components";
 function Conteudo() {
     return (
         <StyledConteudo>
-            <h2>Bla</h2>
+            <h2>Harry Potter</h2>
 
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum tenetur beatae et at eos. Magni labore, quo pariatur neque facilis facere, temporibus consectetur quod exercitationem laborum, corrupti cupiditate modi ducimus.
-            Ullam in iste nihil a sint incidunt! Reprehenderit nulla, eaque sunt corporis, ullam ratione modi porro velit, unde autem rerum perspiciatis quasi fuga dolores! Sed sit accusamus asperiores necessitatibus quas.
-            Quisquam esse rerum incidunt consectetur saepe vitae alias nostrum reprehenderit ducimus eos, assumenda sunt nisi quod laboriosam.</p>
+            <p>Harry Potter é um jovem comum de 11 anos até que recebe uma carta para estudar na Escola de Magia e Bruxaria de Hogwarts, onde ele descobre ser, na verdade, um bruxo. Nela, o garoto conquista a amizade de Hagrid, além de Hermione e Ron. No entanto, ele descobre ter um grande inimigo, o terrível Voldemort.</p>
         </StyledConteudo>
     )
 }
@@ -16,6 +14,9 @@ function Conteudo() {
     padding: 2rem;
     border: 1rem solid black;
     width: 100%;
+    background-color: #d18be0;
+    
+    
     `; 
 
 export default Conteudo;

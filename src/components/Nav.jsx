@@ -22,8 +22,7 @@ const StyledNav = styled.nav`
         text-align: center;
         display: flex;
         flex-flow: column;
-        background: #1e90ff;
-        border-radius: 1rem 0 0 1rem ;
+        background: #5b2a66;
     
 
     a{
@@ -41,13 +40,7 @@ const StyledNav = styled.nav`
         background: #000;
     }
 
-    .border-top{
-        border-radius: 15px 0 0 0
-    }
-
-    .border-bottom{
-        border-radius: 0 0 0 15px
-    }
+    
 `;
 
 
