@@ -1,19 +1,19 @@
 import styled from "styled-components";
 
-function ConteudoLivro() {
+function ConteudoFranquia() {
     return (
-        <StyledLivro>
+        <StyledFranquia>
             <h2>Harry Potter</h2>
 
             <p>Gosto muitooo</p>
-        </StyledLivro>
+        </StyledFranquia>
     )
 }
 
-    const StyledLivro = styled.section`
+    const StyledFranquia = styled.section`
     padding: 2rem;
     border: 1rem solid black;
     width: 100%;
     `;
 
-    export default ConteudoLivro;
+    export default ConteudoFranquia;
