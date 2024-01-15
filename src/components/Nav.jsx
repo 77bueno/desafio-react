@@ -7,9 +7,9 @@ function  Nav() {
             <StyledNav>
                     <NavLink to="/" id="mudarCor" className="border-top">Home</NavLink>
                
-                    <NavLink to="/jogos" id="mudarCor">Jogos</NavLink>
+                    <NavLink to="/filmes" id="mudarCor">Filmes</NavLink>
                 
-                    <NavLink to="/livros" id="mudarCor" className="border-bottom">Livros</NavLink>
+                    <NavLink to="/franquia" id="mudarCor" className="border-bottom">Franquia</NavLink>
             </StyledNav>
     )
 }
